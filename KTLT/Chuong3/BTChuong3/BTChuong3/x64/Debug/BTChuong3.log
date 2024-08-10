@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Bai6_Trang24.cpp
+C:\Users\hoang\OneDrive\Máy tính\BTChuong3\KTLT\Chuong3\BTChuong3\BTChuong3\Bai6_Trang24.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hoang\OneDrive\Máy tính\BTChuong3\KTLT\Chuong3\BTChuong3\BTChuong3\Bai6_Trang24.cpp(19,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoang\OneDrive\Máy tính\BTChuong3\KTLT\Chuong3\BTChuong3\BTChuong3\Bai6_Trang24.cpp(23,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoang\OneDrive\Máy tính\BTChuong3\KTLT\Chuong3\BTChuong3\BTChuong3\Bai6_Trang24.cpp(25,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BTChuong3.vcxproj -> C:\Users\hoang\OneDrive\Máy tính\BTChuong3\KTLT\Chuong3\BTChuong3\x64\Debug\BTChuong3.exe
