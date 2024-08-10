@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bai10_Trang25.cpp" />
     <ClCompile Include="Bai6_Trang24.cpp">
       <BufferSecurityCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</BufferSecurityCheck>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
@@ -140,6 +141,7 @@
     </ClCompile>
     <ClCompile Include="Bai9_Trang25.cpp">
       <BufferSecurityCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</BufferSecurityCheck>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
